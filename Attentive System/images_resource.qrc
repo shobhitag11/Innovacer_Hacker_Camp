@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/background.jpg</file>
+    <file>images/accuracy.png</file>
+    <file>images/attendance.png</file>
+    <file>images/close camera.png</file>
+    <file>images/csv file.png</file>
+    <file>images/database.png</file>
+    <file>images/exit.png</file>
+    <file>images/exit-button.png</file>
+    <file>images/image files.png</file>
+    <file>images/percentage.png</file>
+    <file>images/persons.png</file>
+    <file>images/photo-camera.png</file>
+    <file>images/picture.png</file>
+    <file>images/refresh.png</file>
+    <file>images/train.png</file>
+    <file>images/user.png</file>
+  </qresource>
+</RCC>
